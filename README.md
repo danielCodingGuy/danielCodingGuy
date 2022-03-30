@@ -15,3 +15,7 @@ Here are the stats:
 Here are the coding languages in which I type my shit:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielCodingGuy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Here are the latest contributions:
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=danielCodingGuy)](https://github.com/anuraghazra/github-readme-stats)
