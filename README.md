@@ -2,7 +2,7 @@
 
 **Hello! I'm Daniel, 19yo Student from Gdańsk, Poland. Part-time coder, Part-time gamer, fulltime heartthrob.**
 
-- 🔭 I’m currently working with friends on [**Cowspiracy**](https://github.com/JakubBarabasz/Cowspiracy)
+- 🔭 I’m currently working on [**Discord Bot**](https://github.com/danielCodingGuy/DiscordBot)
 
 - 🌱 I’m currently learning **Java, Python, C#**
 
