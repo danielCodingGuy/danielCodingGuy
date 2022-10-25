@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Python, C#**
 
-- 📃 You can contact me on **Discord: Danielek_PL#0843**
+- 📃 You can contact me on **Discord: Danielek_PL#1895**
 
 Here are the stats:
 
