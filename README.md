@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [**Discord Bot**](https://github.com/danielCodingGuy/DiscordBot)
 
-- 🌱 I’m currently learning **Java, Python, C#**
+- 🌱 I’m currently learning **Java, Python, React**
 
 - 📃 You can contact me on **Discord: Danielek_PL#1895**
 
