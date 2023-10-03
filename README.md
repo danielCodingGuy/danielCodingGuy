@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel! ╰(*°▽°*)╯
 
-**Hello! I'm Daniel, 19yo Student from Gdańsk, Poland. Part-time coder, Part-time gamer, fulltime heartthrob.**
+**Hello! I'm Daniel, 20yo Student from Gdańsk, Poland. Part-time coder, Part-time gamer, fulltime heartthrob.**
 
 - 🔭 I’m currently working on [**Discord Bot**](https://github.com/danielCodingGuy/DiscordBot)
 
